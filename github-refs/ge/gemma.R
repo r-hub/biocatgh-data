@@ -1,0 +1,6 @@
+"ref","hash"
+"HEAD","7363ffaba8052797ef1ac094d391017c3bf995ab"
+"refs/heads/RELEASE_3_16","43adbd57509fef7cbeecf54386466891a4970005"
+"refs/heads/RELEASE_3_17","8aaacd0d14bcabf5eaf95f6abe1f699bf3126c0f"
+"refs/heads/devel","7363ffaba8052797ef1ac094d391017c3bf995ab"
+"refs/heads/master","7363ffaba8052797ef1ac094d391017c3bf995ab"

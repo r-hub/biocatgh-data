@@ -1,0 +1,5 @@
+"ref","hash"
+"HEAD","bcf8e6b7d6ccd29b43c66af2e94fc085cc2ba0ea"
+"refs/heads/RELEASE_3_17","863fa06b2ca445c3df709f2d0ba15dde8fbff75a"
+"refs/heads/devel","bcf8e6b7d6ccd29b43c66af2e94fc085cc2ba0ea"
+"refs/heads/master","bcf8e6b7d6ccd29b43c66af2e94fc085cc2ba0ea"
