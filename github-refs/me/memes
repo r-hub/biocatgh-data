@@ -11,3 +11,4 @@
 "refs/heads/no-r-4","231c9335c2acce2f41fd29ba6c1e2de03fbdc3eb"
 "refs/heads/vignette_rewrite","8fe7558b833259d39ced7f971dfeee54b60c8fca"
 "refs/tags/v0.1.2","8af3cbfd487f09b99ff4c63dbdf65d73046ded70"
+"refs/tags/v0.1.2^{}","457540089b763e83378f745c4ddab5d57fa6c290"
